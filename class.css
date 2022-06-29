@@ -1,0 +1,42 @@
+img{
+    width: 200px;
+}
+.container{
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: space-around;
+}
+#amazon {
+    order: 2;
+}
+#apple {
+    order: 3;
+}
+#beats{
+    order: 1;
+}
+#adidas{
+    order: 4;
+
+}
+.two {
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: space-around;
+}
+#shoes {
+    order: 1;
+}
+#jobs {
+    order: 2;
+}
+#bezos {
+    order: 3;
+}
+#dre {
+    order: 4;
+}
